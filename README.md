@@ -1,2 +1,2 @@
 # loading-screen
-loading screen or fiveM 
+loading screen for fiveM 
